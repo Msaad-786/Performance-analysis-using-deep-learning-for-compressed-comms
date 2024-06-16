@@ -1,1 +1,1 @@
-# Performance-analysis-using-deep-learning-for-compressed-comms
+# Performance-analysis-using-deep-learning-for-compressed-communication
